@@ -2,18 +2,19 @@
 <div align="center">
 
 [![Project Type](https://img.shields.io/badge/Project%20Type-Brand%20Development-FF6B35?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development)
-[![Client](https://img.shields.io/badge/Client-Shiv%20Kathiawadi%20Thali-orange?style=for-the-badge&logo=leaflet&logoColor=white)](https://www.facebook.com/profile.php?id=61590091033930)
+[![Client](https://img.shields.io/badge/Client-Shiv%20Kathiawadi%20Thali-orange?style=for-the-badge&logo=leaflet&logoColor=white)](https://www.instagram.com/shivgujaratithali.surat/)
 [![Agency](https://img.shields.io/badge/Agency-MetroMate%20Real%20Marketing-blue?style=for-the-badge&logo=googleads&logoColor=white)](https://github.com/SNTL84)
-[![Status](https://img.shields.io/badge/Status-Completed%20✅-brightgreen?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed%20✅-brightgreen?style=for-the-badge)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development)
 
 [![Facebook](https://img.shields.io/badge/Facebook%20Page-Active-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590091033930)
-[![Marketing](https://img.shields.io/badge/Marketing-Offline%20%2B%20Online-purple?style=for-the-badge&logo=google&logoColor=white)]()
-[![Industry](https://img.shields.io/badge/Industry-Food%20%26%20Beverage-red?style=for-the-badge&logo=openfoodfacts&logoColor=white)]()
-[![Region](https://img.shields.io/badge/Region-Ahmedabad%2C%20Gujarat%20🇮🇳-orange?style=for-the-badge)]()
+[![Instagram](https://img.shields.io/badge/Instagram-Shiv%20Thali-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivgujaratithali.surat/)
+[![Marketing](https://img.shields.io/badge/Marketing-Offline%20%2B%20Online-purple?style=for-the-badge&logo=google&logoColor=white)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development)
+[![Industry](https://img.shields.io/badge/Industry-Food%20%26%20Beverage-red?style=for-the-badge&logo=openfoodfacts&logoColor=white)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development)
+[![Region](https://img.shields.io/badge/Region-Ahmedabad%2C%20Gujarat%20🇮🇳-orange?style=for-the-badge)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development)
 
-[![Stars](https://img.shields.io/github/stars/SNTL84/metromate-shiv-kathiawadi-thali-brand-development?style=for-the-badge&color=gold)]()
-[![Forks](https://img.shields.io/github/forks/SNTL84/metromate-shiv-kathiawadi-thali-brand-development?style=for-the-badge)]()
-[![Watchers](https://img.shields.io/github/watchers/SNTL84/metromate-shiv-kathiawadi-thali-brand-development?style=for-the-badge)]()
+[![Stars](https://img.shields.io/github/stars/SNTL84/metromate-shiv-kathiawadi-thali-brand-development?style=for-the-badge&color=gold)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development/stargazers)
+[![Forks](https://img.shields.io/github/forks/SNTL84/metromate-shiv-kathiawadi-thali-brand-development?style=for-the-badge)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development/network/members)
+[![Watchers](https://img.shields.io/github/watchers/SNTL84/metromate-shiv-kathiawadi-thali-brand-development?style=for-the-badge)](https://github.com/SNTL84/metromate-shiv-kathiawadi-thali-brand-development/watchers)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
@@ -56,7 +57,7 @@
 
 This repository documents the **end-to-end brand development journey** of **Shiv Kathiawadi Thali**, a local Kathiawadi cuisine restaurant in Gujarat, India — conceptualized, built, and launched by **MetroMate Real Marketing**.
 
-The project covers **identity creation**, **offline presence**, **digital activation**, **Facebook presence**, **QR code strategy**, and **customer journey mapping** — making Shiv Kathiawadi Thali a recognizable and trusted food brand in its locality and beyond.
+The project covers **identity creation**, **offline presence**, **digital activation**, **Facebook presence**, **Instagram presence**, **QR code strategy**, and **customer journey mapping** — making Shiv Kathiawadi Thali a recognizable and trusted food brand in its locality and beyond.
 
 | Attribute | Details |
 |-----------|--------|
@@ -65,8 +66,9 @@ The project covers **identity creation**, **offline presence**, **digital activa
 | 📍 **Location** | Ahmedabad / Gujarat, India |
 | 📅 **Project Type** | Complete Brand Development |
 | 🎯 **Goal** | Transform a local food stall into a recognizable brand |
-| 📡 **Channels** | Facebook, WhatsApp, QR Offline, Banners, Pamphlets, Menu Design |
+| 📡 **Channels** | Facebook, Instagram, WhatsApp, QR Offline, Banners, Pamphlets, Menu Design |
 | 📲 **Facebook Page** | [Visit Here](https://www.facebook.com/profile.php?id=61590091033930) |
+| 📸 **Instagram** | [@shivgujaratithali.surat](https://www.instagram.com/shivgujaratithali.surat/) |
 
 ---
 
@@ -83,6 +85,8 @@ The project covers **identity creation**, **offline presence**, **digital activa
 - 🏠 Known for homestyle taste in a restaurant setting
 
 Before MetroMate's intervention, the business operated entirely through **word-of-mouth** with no digital presence, no brand identity, and no marketing strategy.
+
+📸 **Follow on Instagram:** [@shivgujaratithali.surat](https://www.instagram.com/shivgujaratithali.surat/)
 
 ---
 
@@ -152,6 +156,15 @@ MetroMate built and activated the complete Facebook presence from scratch:
 - ✅ Initial content calendar executed (posts, stories, reels)
 - ✅ Community engagement strategy deployed
 
+### 📸 Instagram Presence
+
+> 🔗 **[Shiv Kathiawadi Thali — Instagram](https://www.instagram.com/shivgujaratithali.surat/)**
+
+- ✅ Instagram profile set up and branded
+- ✅ Reels, stories, and food photo strategy deployed
+- ✅ Hashtag strategy implemented for discoverability
+- ✅ Consistent brand aesthetic across posts
+
 ### 📲 QR Code Marketing System
 
 A custom **Shiv Thali Facebook QR Code** was created and deployed:
@@ -174,16 +187,17 @@ A custom **Shiv Thali Facebook QR Code** was created and deployed:
 
 | Content Type | Frequency | Platform | Goal |
 |---|---|---|---|
-| Food Photos | 3x/week | Facebook, WhatsApp | Appetite appeal |
+| Food Photos | 3x/week | Facebook, Instagram, WhatsApp | Appetite appeal |
 | Thali of the Day | Daily | WhatsApp Status | Daily engagement |
-| Festival Specials | Occasion-based | Facebook | Community connect |
+| Festival Specials | Occasion-based | Facebook, Instagram | Community connect |
 | Customer Reviews | Weekly | Facebook | Social proof |
-| Behind the Scenes | Bi-weekly | Facebook Reels | Authenticity |
+| Behind the Scenes | Bi-weekly | Instagram Reels | Authenticity |
 | Offers & Discounts | Monthly | All platforms | Footfall drive |
 
 ### 🔍 Local SEO & Discoverability
 
 - Facebook Business listing optimized for local search
+- Instagram profile optimized with location tags and bio links
 - Category tags: Kathiawadi, Thali, Gujarat, Food, Restaurant
 - Location-based targeting for sponsored content
 - WhatsApp Business profile setup
@@ -235,17 +249,17 @@ Locality Marketing Map
 
         [Facebook Page] ←── Primary Digital Hub
               │
-    ┌─────────┼──────────┐
-    │         │          │
-[WhatsApp] [QR Codes] [Google Maps]
-Business   Offline→    Location
- Channel   Online       Tags
+    ┌─────────┼──────────┬──────────┐
+    │         │          │          │
+[WhatsApp] [QR Codes] [Instagram] [Google Maps]
+Business   Offline→   Food        Location
+ Channel   Online     Content      Tags
 ```
 
 ### Facebook Page Key Metrics Goals
 
 | KPI | Target | Strategy |
-|-----|--------|----------|
+|-----|--------|---------|
 | Page Likes | 500+ in 90 days | QR + organic + paid |
 | Post Reach | 1000+ per post | Consistency + hashtags |
 | Check-ins | 50+/month | Encourage at point-of-sale |
@@ -259,6 +273,7 @@ Business   Offline→    Location
 #AuthenticThali       #Ahmedabad       #GujaratiFood
 #ThaliLovers          #IndianFood      #StreetFood
 #LocalFood            #FoodofIndia     #HomemadeFood
+#shivgujaratithali    #SuratFood       #KathiawadiThali
 ```
 
 ---
@@ -273,19 +288,20 @@ Business   Offline→    Location
   BEFORE MetroMate          AFTER MetroMate
   ──────────────────────    ──────────────────────────
   ❌ No logo                ✅ Custom brand identity
-  ❌ No digital presence    ✅ Active Facebook page
+  ❌ No digital presence    ✅ Active Facebook + Instagram
   ❌ No menu design         ✅ Professional menu
   ❌ Word-of-mouth only     ✅ Multi-channel marketing
   ❌ No QR strategy         ✅ QR offline-to-online bridge
   ❌ No content calendar    ✅ Regular content publishing
   ❌ No brand tagline       ✅ "Taste the Tradition"
-  ❌ Zero online footprint  ✅ Discoverable on Facebook
+  ❌ Zero online footprint  ✅ Discoverable on Facebook & Instagram
 ```
 
 ### 📈 Business Impact
 
 - 🆕 **First-ever digital presence** for the restaurant
 - 📱 **Facebook Page live** with directory & contact links
+- 📸 **Instagram Profile active** with branded food content
 - 🖨️ **Full print collateral** suite delivered
 - 🔗 **QR code bridge** connecting walk-in customers to digital community
 - 📅 **Content calendar** running autonomously
@@ -333,7 +349,7 @@ Week 4    │ 🖨️ Offline Marketing Production
           │ → Menu, banners, flyers, standees, QR code
           │
 Week 5    │ 📲 Digital Setup
-          │ → Facebook page, QR activation, WhatsApp Business
+          │ → Facebook page, Instagram, QR activation, WhatsApp Business
           │
 Week 6    │ 🚀 Launch & Distribution
           │ → Offline distribution, page activation, content start
@@ -356,7 +372,7 @@ Week 7-8  │ 📊 Monitor & Optimize
 2. **Cultural Authenticity** — Brand identity rooted in Kathiawadi heritage, not generic food brand templates
 3. **Offline-First Thinking** — QR code strategy that bridges the physical restaurant to digital community
 4. **Budget-Smart Execution** — Maximum impact marketing optimized for a local SME budget
-5. **Holistic Approach** — Every touchpoint designed: from table mats to Facebook posts
+5. **Holistic Approach** — Every touchpoint designed: from table mats to Instagram reels
 
 </td>
 <td width="50%">
@@ -389,6 +405,8 @@ Week 7-8  │ 📊 Monitor & Optimize
 
 **[👉 Visit Facebook Page](https://www.facebook.com/profile.php?id=61590091033930)**
 
+**[📸 Follow on Instagram](https://www.instagram.com/shivgujaratithali.surat/)**
+
 </div>
 
 ---
@@ -401,10 +419,12 @@ Week 7-8  │ 📊 Monitor & Optimize
 |----------|------|
 | 🌐 **Website** | [desidevloper.com](https://desidevloper.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/sntl2784](https://www.linkedin.com/in/sntl2784) |
+| 📸 **Instagram** | [@desibiztrade](https://www.instagram.com/desibiztrade/) |
 | 💬 **WhatsApp** | [wa.me/919727413309](https://wa.me/919727413309) |
 | 🐙 **GitHub** | [github.com/SNTL84](https://github.com/SNTL84) |
 | 📧 **Email** | [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) |
 | 📘 **Facebook** | [Shiv Kathiawadi Thali](https://www.facebook.com/profile.php?id=61590091033930) |
+| 📸 **Client Instagram** | [@shivgujaratithali.surat](https://www.instagram.com/shivgujaratithali.surat/) |
 
 </div>
 
