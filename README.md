@@ -1,7 +1,13 @@
 # 🚀 MetroMate — Digital Marketing Service
 
+<div align="center">
+
+![MetroMate Brand Logo](assets/metromate-brand-logo.jpg)
+
 > **Strategy. Creativity. Growth.**
 > *We Market. You Grow. — Results That Matter.*
+
+</div>
 
 ---
 
