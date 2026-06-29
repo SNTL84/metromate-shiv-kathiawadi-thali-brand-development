@@ -1,4 +1,4 @@
-# 🚀 MetroMate — Digital Marketing Service
+# 🚀 MetroMate — Performance Marketing Service
 
 <div align="center">
 
@@ -13,13 +13,13 @@
 
 ## 📌 Overview
 
-**MetroMate** is a full-service digital marketing agency dedicated to helping brands grow online through data-driven strategy, creative content, and measurable results. This repository documents the **brand development project** for *Shiv Kathiawadi Thali* — a local food brand positioned for digital expansion.
+**MetroMate** is a full-service performance marketing agency dedicated to helping brands grow online through data-driven strategy, creative content, and measurable results. This repository documents the **brand development project** for *Shiv Kathiawadi Thali* — a local food brand positioned for digital expansion.
 
 ---
 
 ## 🍽️ Project: Shiv Kathiawadi Thali — Brand Development
 
-This project covers the end-to-end digital branding and marketing strategy for **Shiv Kathiawadi Thali**, a traditional Kathiawadi food brand based in Surat, Gujarat.
+This project covers the end-to-end digital branding and performance marketing strategy for **Shiv Kathiawadi Thali**, a traditional Kathiawadi food brand based in Surat, Gujarat.
 
 ### 🎯 Project Goals
 
@@ -35,7 +35,7 @@ This project covers the end-to-end digital branding and marketing strategy for *
 
 | Asset | Description |
 |---|---|
-| `assets/metromate-brand-logo.jpg` | MetroMate Digital Marketing Service — official brand poster |
+| `assets/metromate-brand-logo.jpg` | MetroMate Performance Marketing Service — official brand poster |
 
 ---
 
@@ -134,6 +134,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Your Growth Partner — One Goal. Your Success.**
 
-*MetroMate Digital Marketing Service*
+*MetroMate Performance Marketing Service*
 
 </div>
